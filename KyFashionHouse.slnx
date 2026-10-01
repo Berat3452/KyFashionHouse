@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BussinessLayer/BussinessLayer.csproj" Id="a15f9589-4fe5-4760-b759-dbc94d2200f9" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" Id="bb70220f-823e-4a03-9755-8a3523c45b30" />
+  <Project Path="EntityLayer/EntityLayer.csproj" Id="991c1039-09b8-4dd1-a7f6-d7bae6d92806" />
+  <Project Path="KyFashionHouse/KyFashionHouse.csproj" Id="276898fb-a63c-4338-80f3-2e5a75649dde" />
+</Solution>
